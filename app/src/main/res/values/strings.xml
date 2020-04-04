@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Sorteio</string>
+    <string name="explain_text">Número de 0 a 10</string>
+    <string name="button">Sortear</string>
 </resources>
